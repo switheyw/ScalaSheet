@@ -1,6 +1,7 @@
 ScalaSheet
 ==========
 
+<<<<<<< HEAD
 SpreadSheet Example from Ed. 2 Programming in Scala (The Stairway book)
 
 I use my hands instead of my head, to learn,  thus am imputing the spreadsheet
@@ -20,3 +21,6 @@ Mistakes or ommisions from text of 2nd Edition?
 1) Pg 774, listing 35.4
 	new Array[Array[Cell]](x,y) should be Array.ofDim[Cell](x,y)
 	Notice that the declaration is not prefixed with 'new'.
+=======
+Reentry of Stairway Book 2nd Ed's Spreadsheet example.
+>>>>>>> 8ab55e68933e8abe5d7467be78b6cb00c5bb7990
